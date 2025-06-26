@@ -18,7 +18,7 @@ This project is a full-stack application built with the PERN (PostgreSQL, Expres
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/t2-react-collab-project.git
+   git clone https://github.com/Enairu62/t2-react-collab-project.git
    cd t2-react-collab-project
    ```
 
